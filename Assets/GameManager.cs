@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour {
         public GameObject Player;
         public GameObject ScoreContainer;
         
-        
+    
     }
 
     public GameObject Ball;
